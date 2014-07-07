@@ -9,8 +9,6 @@ var express = require('express')
 var util  = require('util');
 var fs = require('fs');
 
-var userName = 'hsharma@makepositive.demo';
-var pw = 'Demo@1234';
 
 var app = express();
 
